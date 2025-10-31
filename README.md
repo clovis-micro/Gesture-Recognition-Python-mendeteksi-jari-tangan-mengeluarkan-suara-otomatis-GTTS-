@@ -135,12 +135,3 @@ python finger_gesture.py
 * **Camera tidak muncul** → Cek webcam aktif, tutup aplikasi lain yang pakai webcam
 * **Suara tidak keluar** → Pastikan speakers/headphones aktif, gunakan versi `playsound==1.2.2`
 
----
-
-9. Ide Konten Channel
-
-1. Demo **AI Gesture Recognition** langsung live
-2. Tutorial **Membuat Robot Suara dengan Python**
-3. Edukasi **Belajar Python + MediaPipe**
-4. Challenge **Tebak Gesture & Suara** interaktif
-5. Komparasi **Google TTS vs Text-to-Speech lain**
