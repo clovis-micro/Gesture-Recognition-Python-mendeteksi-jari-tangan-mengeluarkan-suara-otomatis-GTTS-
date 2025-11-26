@@ -18,7 +18,7 @@ cap = cv2.VideoCapture(0)
 
 gesture_messages = {
     "ONE": "Halo!",
-    "TWO": "Perkenalkan, saya Fira",
+    "TWO": "Perkenalkan, saya Halim",
     "FIVE": "Terimakasih",
     "FIST": "Salam kenal"
 }
