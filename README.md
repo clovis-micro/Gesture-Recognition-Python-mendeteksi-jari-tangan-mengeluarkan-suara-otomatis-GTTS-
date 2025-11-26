@@ -1,3 +1,5 @@
+![image alt](https://github.com/clovis-micro/Gesture-Recognition-Python-mendeteksi-jari-tangan-mengeluarkan-suara-otomatis-GTTS-/blob/36ec74fd344835c117334d33459fc2615c92d496/ai-imagehand-gesture-1.jpg)
+
 ✋ Gesture Recognition + Suara (GTTS) – Panduan Lengkap
 
  1. Persiapan Awal: Install Python
